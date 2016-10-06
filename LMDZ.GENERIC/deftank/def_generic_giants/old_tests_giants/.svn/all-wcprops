@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants
+END
+newtonian.def
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/newtonian.def
+END
+planet.def
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/planet.def
+END
+run.def
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/run.def
+END
+traceur.def
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/traceur.def
+END
+gcm.def
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/gcm.def
+END
+compile_command
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/compile_command
+END
+job_mpi8_omp8
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/job_mpi8_omp8
+END
+launch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/launch
+END
+launch.giant
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Planeto/!svn/ver/1254/trunk/LMDZ.GENERIC/deftank/def_generic_giants/old_tests_giants/launch.giant
+END

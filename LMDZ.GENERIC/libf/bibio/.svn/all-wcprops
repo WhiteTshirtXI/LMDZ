@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Planeto/!svn/ver/1316/trunk/LMDZ.GENERIC/libf/bibio
+END
+ioipsl_getincom.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/ioipsl_getincom.F90
+END
+ioipsl_stringop.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/ioipsl_stringop.F90
+END
+scopy.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/scopy.F
+END
+ioipsl_errioipsl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/ioipsl_errioipsl.F90
+END
+mxm.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/mxm.F
+END
+scopyi.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/scopyi.F
+END
+sdot.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/sdot.F
+END
+isitor.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/isitor.F
+END
+mxv.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/mxv.F
+END
+mxva.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/mxva.F
+END
+cvmgp.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/cvmgp.F
+END
+ioipsl_getincom_p.F90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Planeto/!svn/ver/1316/trunk/LMDZ.GENERIC/libf/bibio/ioipsl_getincom_p.F90
+END
+ismin.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/ismin.F
+END
+cvmgt.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/cvmgt.F
+END
+ismax.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/ismax.F
+END
+isamax.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/isamax.F
+END
+ssum.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/ssum.F
+END
+wheneq.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/wheneq.F
+END
+ilsum.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/ilsum.F
+END
+cbrt.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/bibio/cbrt.F
+END

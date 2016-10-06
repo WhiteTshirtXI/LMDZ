@@ -1,0 +1,13 @@
+!-----------------------------------------------------------------------
+!   INCLUDE 'dimensions.h'
+!
+!   dimensions.h contains the model dimensions
+!   
+!-----------------------------------------------------------------------
+
+      INTEGER, parameter :: iim=64
+      INTEGER, parameter :: jjm=48
+      INTEGER, parameter :: llm=32
+      INTEGER, parameter :: ndm=1
+
+!-----------------------------------------------------------------------

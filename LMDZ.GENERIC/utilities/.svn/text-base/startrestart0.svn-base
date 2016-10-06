@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mv -f restart.nc start0.nc
+mv -f restartfi.nc startfi0.nc
+
+exit 0

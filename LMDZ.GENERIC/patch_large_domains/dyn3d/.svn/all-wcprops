@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/868/trunk/LMDZ.GENERIC/patch_large_domains/dyn3d
+END
+interp_horiz.F
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Planeto/!svn/ver/868/trunk/LMDZ.GENERIC/patch_large_domains/dyn3d/interp_horiz.F
+END
+iniinterp_h.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Planeto/!svn/ver/868/trunk/LMDZ.GENERIC/patch_large_domains/dyn3d/iniinterp_h.F
+END

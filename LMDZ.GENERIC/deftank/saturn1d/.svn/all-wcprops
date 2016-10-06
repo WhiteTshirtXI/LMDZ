@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/1275/trunk/LMDZ.GENERIC/deftank/saturn1d
+END
+gases.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1262/trunk/LMDZ.GENERIC/deftank/saturn1d/gases.def
+END
+profile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1150/trunk/LMDZ.GENERIC/deftank/saturn1d/profile
+END
+traceur.def
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/976/trunk/LMDZ.GENERIC/deftank/saturn1d/traceur.def
+END
+rcm1d.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1275/trunk/LMDZ.GENERIC/deftank/saturn1d/rcm1d.def
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1150/trunk/LMDZ.GENERIC/deftank/saturn1d/compile
+END
+z2sig.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1262/trunk/LMDZ.GENERIC/deftank/saturn1d/z2sig.def
+END
+callphys.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1262/trunk/LMDZ.GENERIC/deftank/saturn1d/callphys.def
+END

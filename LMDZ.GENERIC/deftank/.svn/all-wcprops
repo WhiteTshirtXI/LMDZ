@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/Planeto/!svn/ver/1284/trunk/LMDZ.GENERIC/deftank
+END
+callphys.GJ581d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/727/trunk/LMDZ.GENERIC/deftank/callphys.GJ581d
+END
+callphys.earth
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/839/trunk/LMDZ.GENERIC/deftank/callphys.earth
+END
+earth1d_Dry.callphys.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Planeto/!svn/ver/729/trunk/LMDZ.GENERIC/deftank/earth1d_Dry.callphys.def
+END
+run0
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/run0
+END
+run.def.earlymars_hires
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/run.def.earlymars_hires
+END
+earth1d.traceur.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/596/trunk/LMDZ.GENERIC/deftank/earth1d.traceur.def
+END
+run1d.earth
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/run1d.earth
+END
+run.def.64x48x25
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/deftank/run.def.64x48x25
+END
+kcm1d.def
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/714/trunk/LMDZ.GENERIC/deftank/kcm1d.def
+END
+traceur.def.co2clouds
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/deftank/traceur.def.co2clouds
+END
+jupiter1d.z2sig.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/591/trunk/LMDZ.GENERIC/deftank/jupiter1d.z2sig.def
+END
+jupiter1d.gases.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/591/trunk/LMDZ.GENERIC/deftank/jupiter1d.gases.def
+END
+autospinup
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/autospinup
+END
+jupiter1d.rcm1d.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/601/trunk/LMDZ.GENERIC/deftank/jupiter1d.rcm1d.def
+END
+autocontinue
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/autocontinue
+END
+callphys.kcm1d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/715/trunk/LMDZ.GENERIC/deftank/callphys.kcm1d
+END
+callphys.earlymars
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/729/trunk/LMDZ.GENERIC/deftank/callphys.earlymars
+END
+start_earth
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/start_earth
+END
+run.def.32x24x25
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/deftank/run.def.32x24x25
+END
+gases.def.CO2
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/539/trunk/LMDZ.GENERIC/deftank/gases.def.CO2
+END
+jupiter1d.callphys.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/727/trunk/LMDZ.GENERIC/deftank/jupiter1d.callphys.def
+END
+earth1d.gases.def
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/596/trunk/LMDZ.GENERIC/deftank/earth1d.gases.def
+END
+run1d.earlymars
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/run1d.earlymars
+END
+earth1d.rcm1d.def
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/839/trunk/LMDZ.GENERIC/deftank/earth1d.rcm1d.def
+END
+run.def.earth_hires
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/run.def.earth_hires
+END
+z2sig.mars
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/z2sig.mars
+END
+z2sig.earth
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/z2sig.earth
+END
+traceur.def.watercycle
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/deftank/traceur.def.watercycle
+END
+gases.def.CO2H2Ovar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/539/trunk/LMDZ.GENERIC/deftank/gases.def.CO2H2Ovar
+END
+jupiter1d.traceur.def
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/591/trunk/LMDZ.GENERIC/deftank/jupiter1d.traceur.def
+END
+start_earlymars
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/deftank/start_earlymars
+END

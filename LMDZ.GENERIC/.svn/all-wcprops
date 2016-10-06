@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/Planeto/!svn/ver/1316/trunk/LMDZ.GENERIC
+END
+Making_New_Corrk_Directories.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Planeto/!svn/ver/1148/trunk/LMDZ.GENERIC/Making_New_Corrk_Directories.pdf
+END
+makegcm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/Planeto/!svn/ver/1193/trunk/LMDZ.GENERIC/makegcm
+END
+create_make_gcm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Planeto/!svn/ver/634/trunk/LMDZ.GENERIC/create_make_gcm
+END
+makegcm_gfortran
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Planeto/!svn/ver/1255/trunk/LMDZ.GENERIC/makegcm_gfortran
+END
+makegcm_ifort
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/makegcm_ifort
+END
+ManualGCM_GENERIC.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/987/trunk/LMDZ.GENERIC/ManualGCM_GENERIC.pdf
+END
+makegcm_g95
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/makegcm_g95
+END
+How_to_add_an_aerosol_to_the_GCM.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Planeto/!svn/ver/1148/trunk/LMDZ.GENERIC/How_to_add_an_aerosol_to_the_GCM.pdf
+END
+makegcm_pgf90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/makegcm_pgf90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/Planeto/!svn/ver/1312/trunk/LMDZ.GENERIC/README
+END

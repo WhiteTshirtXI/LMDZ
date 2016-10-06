@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/filtrez
+END
+filtreg.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/filtreg.F
+END
+inifilr.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/inifilr.F
+END
+eigen_sort.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/eigen_sort.F
+END
+parafilt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/filtrez/parafilt.h
+END
+acc.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/acc.F
+END
+coefils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/coefils.h
+END
+eigen.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/eigen.F
+END
+jacobi.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/jacobi.F
+END
+inifgn.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/filtrez/inifgn.F
+END

@@ -1,0 +1,5 @@
+#  gcc version: gcc/4.8.0
+#  intel/intel-12.1.5
+#  hdf5/1.8.14-gcc-4.9.1
+#
+/mnt/raid-project/murray/hanbo/LMDZ.GENERIC/LMDZ.GENERIC/makegcm_gfortran -d 64x48x30 -p hanbo -t 2 -s 1 -b 19x18 gcm

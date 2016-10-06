@@ -1,0 +1,27 @@
+
+## RUN.DEF
+
+day_step = 140
+day_step = 280
+
+# peu d appel physiq
+iphysiq = 140
+
+tetagdiv = 2700.
+tetagrot = 3600.
+tetatemp = 3600.
+
+#tetagdiv = 1500.
+#tetagrot = 2400.
+#tetatemp = 2400.
+
+## diffusion mikel
+tetagdiv = 1000.
+tetagrot = 2000.
+tetatemp = 2000.
+
+
+## CALLPHYS.DEF
+
+## peu d appel physiq
+#iradia = 320

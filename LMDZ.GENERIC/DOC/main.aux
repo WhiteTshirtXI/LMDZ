@@ -1,0 +1,189 @@
+\relax 
+\catcode`:\active
+\catcode`;\active
+\catcode`!\active
+\catcode`?\active
+\bibstyle{abbrv}
+\select@language{english}
+\@writefile{toc}{\select@language{english}}
+\@writefile{lof}{\select@language{english}}
+\@writefile{lot}{\select@language{english}}
+\select@language{english}
+\@writefile{toc}{\select@language{english}}
+\@writefile{lof}{\select@language{english}}
+\@writefile{lot}{\select@language{english}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {1}Introduction}{3}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\select@language{english}
+\@writefile{toc}{\select@language{english}}
+\@writefile{lof}{\select@language{english}}
+\@writefile{lot}{\select@language{english}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}Main features of the model}{4}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:apercu}{{2}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Basic principles}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Dynamical-Physical separation}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Physical/dynamical interface}}{5}}
+\newlabel{fg:fidyn}{{2.1}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Grid boxes:}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Horizontal grids}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Dynamical and physical grids for a 6 $\times $ 7 horizontal resolution. In the dynamics (but not in the physics) winds u and v are on specific staggered grids. Other dynamical variables are on the dynamical ``scalar'' grid. The physics uses the same ``scalar'' grid for all the variables, except that nodes are indexed in a single vector containing NGRID=2+(JM-1)$\times $IM points when counting from the north pole. N.B.: In the Fortran program, the following variables are used: {\tt  iim=IM , iip1=IM+1, jjm=JM , jjp1=JM+1}.}}{6}}
+\newlabel{fg:grid}{{2.2}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Vertical grids}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces hybrides}}{7}}
+\newlabel{fg:hybrid}{{2.3}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.4}{\ignorespaces Vertical grid description of the {\tt  llm (or nlayer)} atmospheric layers in the programming code ({\tt  llm} is the variable used in the dynamical part, and {\tt  nlayer} is used in the physical part). Variables {\tt  ap, bp} and {\tt  aps, bps} indicate the hybrid levels at the interlayer levels and at middle of the layers respectively. Pressure at the interlayer is $Plev(l)=ap(l)+bp(l) \times Ps$ and pressure in the middle of the layer is defined by $Play(l)=aps(l)+bps(l) \times Ps$, (where $Ps$ is surface pressure). Sigma coordinates are merely a specific case of hybrid coordinates such that $aps=0$ and $bps=P/Ps$. Note that for the hybrid coordinates, $bps=0$ above $\sim 50$~km, leading to purely pressure levels. The user can choose whether to run the model using hybrid coordinates or not by setting variable {\tt  hybrid} in run.def to True or False.}}{8}}
+\newlabel{fg:sigma}{{2.4}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.4}Variables used in the model}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4.1}Dynamical variables}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4.2}Physical variables}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4.3}Tracers}{10}}
+\citation{Holt:79}
+\citation{LeVa:89}
+\citation{Arak:77}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}3D Dynamical Code}{11}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:dynamic}{{3}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Discretisation of the dynamical equations}{11}}
+\@writefile{toc}{\contentsline {paragraph}{la pression extensive:}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Grille obtenue avec 96 points en longitude et 73 en latitude et un zoom d'un facteur 3 centr\'e sur la m\'edit\'erann\'ee (grille utilis\'ee au laboratoire par Ali Harzallah)}}{12}}
+\newlabel{fg:zoom}{{3.1}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Disposition des variables dans la grille du LMD}}{13}}
+\newlabel{fg:grille}{{3.2}{13}}
+\@writefile{toc}{\contentsline {paragraph}{les trois composantes du flux de masse:}{13}}
+\@writefile{toc}{\contentsline {paragraph}{le facteur de Coriolis multipli\'e par l'aire de la maille:}{13}}
+\@writefile{toc}{\contentsline {paragraph}{la vorticit\'e potentielle absolue:}{13}}
+\@writefile{toc}{\contentsline {paragraph}{l'\'energie cin\'etique}{13}}
+\@writefile{toc}{\contentsline {paragraph}{\'equations du mouvement:}{13}}
+\newlabel{eq:u1}{{3.5}{13}}
+\newlabel{eq:v1}{{3.6}{13}}
+\@writefile{toc}{\contentsline {paragraph}{\'equation thermodynamique:}{14}}
+\newlabel{eq:thermo}{{3.7}{14}}
+\@writefile{toc}{\contentsline {paragraph}{\'equation hydrostatique:}{14}}
+\@writefile{toc}{\contentsline {paragraph}{\'equations de continuit\'e:}{14}}
+\newlabel{eq:cont1}{{3.9}{14}}
+\newlabel{eq:cont2}{{3.10}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}High latitude filters}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Dissipation}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Sponge layer}{15}}
+\citation{Forg:99}
+\citation{Forg:99}
+\citation{Lewi:99}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Physical parameterizations of the generic model: some references}{16}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:phystd}{{4}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}General}{16}}
+\@writefile{toc}{\contentsline {paragraph}{General references:}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Radiative transfer}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}\bf  Absorption/emission and diffusion by dust:}{16}}
+\citation{Toon:89}
+\citation{Forg:98grl}
+\citation{Fouq:80}
+\citation{Ocke:97}
+\citation{Clan:91}
+\citation{Hour:93}
+\citation{Forg:98}
+\citation{Hour:99}
+\citation{Mont:04jgr}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Subgrid atmospheric dynamical processes}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Turbulent diffusion in the upper layer}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Convection}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Surface thermal conduction}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.5}CO$_2$ Condensation}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.6}Tracer transport and sources}{17}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Running the model: a practice simulation}{19}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{loc:contact1}{{5}{19}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Installing the model from SVN}{19}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Installing the model without SVN}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Compiling the model}{21}}
+\newlabel{sc:run1}{{5.3}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Input files (initial states and def files)}{22}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.5}Running the model}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Input/output data}}{23}}
+\newlabel{fig:inout}{{5.1}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.6}Visualizing the output files}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.6.1}Using GrAds to visualize outputs}{24}}
+\newlabel{loc:visu}{{5.6.1}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.7}Resuming a simulation}{25}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.8}Chain simulations}{25}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.9}Creating and modifying initial states}{25}}
+\newlabel{sc:newstart}{{5.9}{25}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.9.1}Using program ``newstart''}{25}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.9.2}Creating the initial start\_archive.nc file }{27}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.9.3}Changing the horizontal or vertical grid resolution}{27}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Program organization and compilation script}{28}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:info}{{6}{28}}
+\newlabel{loc:contenu}{{6}{28}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}Organization of the model source files}{28}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.2}Programming}{29}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.3}Model organization}{29}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.4}Compiling the model}{29}}
+\newlabel{sc:compil1}{{6.4}{29}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Organigram of subroutine function physiq.F90}}{30}}
+\newlabel{fg:organi_phys}{{6.1}{30}}
+\@writefile{toc}{\contentsline {paragraph}{Help manual for the makegcm script}{31}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {7}Input/Output}{33}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:io}{{7}{33}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.1}NetCDF format}{33}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1.1}NetCDF file editor: ncdump}{33}}
+\@writefile{toc}{\contentsline {paragraph}{Main commands for ncdump}{33}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.1}{\ignorespaces Example of temperature data (in this case for present-day Mars) at a given time using GrADS visualization}}{34}}
+\newlabel{fg:grads}{{7.1}{34}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1.2}Graphic visualization of the NetCDF files using GrAds}{34}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.2}Input and parameter files}{34}}
+\newlabel{loc:entrees}{{7.2}{34}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2.1}run.def}{35}}
+\newlabel{vb:run.def}{{7.2.1}{35}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2.2}callphys.def}{37}}
+\newlabel{sc:callphys.def}{{7.2.2}{37}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2.3}traceur.def}{39}}
+\newlabel{sc:traceur.def}{{7.2.3}{39}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2.4}z2sig.def}{39}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2.5}Initialization files: start and startfi}{40}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.2}{\ignorespaces Organization of NetCDF files }}{41}}
+\newlabel{fg:netcdf}{{7.2}{41}}
+\@writefile{toc}{\contentsline {paragraph}{Physical and dynamical headers}{43}}
+\@writefile{toc}{\contentsline {paragraph}{Surface conditions}{43}}
+\@writefile{toc}{\contentsline {paragraph}{Physical and dynamical state variables}{43}}
+\@writefile{toc}{\contentsline {paragraph}{The ``control'' array}{44}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.3}Output files}{46}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.1}NetCDF restart files - restart.nc and restartfi.nc}{46}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.2} NetCDF file - diagfi.nc}{46}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3.3}Stats files}{47}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {8}Water Cycle Simulation}{51}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:water}{{8}{51}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {9}1D version of the generic model}{54}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:rcm1d}{{9}{54}}
+\@writefile{toc}{\contentsline {section}{\numberline {9.1}Compilation}{54}}
+\@writefile{toc}{\contentsline {section}{\numberline {9.2}1-D runs and input files}{54}}
+\@writefile{toc}{\contentsline {section}{\numberline {9.3}Output data}{56}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {10}Zoomed simulations}{57}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:zoom}{{10}{57}}
+\@writefile{toc}{\contentsline {section}{\numberline {10.1}To define the zoomed area}{57}}
+\@writefile{toc}{\contentsline {section}{\numberline {10.2}Making a zoomed initial state}{57}}
+\@writefile{toc}{\contentsline {section}{\numberline {10.3}Running a zoomed simulation and stability issue}{58}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {11}Changing the radiative transfer properties}{59}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{sc:kspectrum}{{11}{59}}
+\@writefile{toc}{\contentsline {section}{\numberline {11.1}Producing the high-resolution data}{59}}
+\@writefile{toc}{\contentsline {section}{\numberline {11.2}Performing the correlated-k conversion}{60}}
+\bibdata{newfred.bib}
+\@writefile{toc}{\contentsline {section}{\numberline {11.3}Implementing the absorption data in the GCM}{61}}
+\bibstyle{plain}

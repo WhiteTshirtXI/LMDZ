@@ -1,0 +1,869 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Planeto/!svn/ver/1316/trunk/LMDZ.GENERIC/libf/phystd
+END
+comcstfi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/600/trunk/LMDZ.GENERIC/libf/phystd/comcstfi.h
+END
+callkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/callkeys.h
+END
+mod_phys_lmdz_transfert_para.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/mod_phys_lmdz_transfert_para.F90
+END
+forceWCfn.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/forceWCfn.F
+END
+turbdiff.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/turbdiff.F90
+END
+totalcloudfrac.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/totalcloudfrac.F90
+END
+writediagsoil.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/writediagsoil.F90
+END
+lagrange.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/lagrange.F
+END
+slab_ice_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1298/trunk/LMDZ.GENERIC/libf/phystd/slab_ice_h.F90
+END
+comhdiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1299/trunk/LMDZ.GENERIC/libf/phystd/comhdiff.h
+END
+datafile_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/716/trunk/LMDZ.GENERIC/libf/phystd/datafile_mod.F90
+END
+su_gases.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/su_gases.F90
+END
+zerophys.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/zerophys.F
+END
+writeg1d.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/writeg1d.F
+END
+rings.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1204/trunk/LMDZ.GENERIC/libf/phystd/rings.F90
+END
+inistats.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/inistats.F
+END
+bilinear.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/716/trunk/LMDZ.GENERIC/libf/phystd/bilinear.F90
+END
+ocean_slab_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/ocean_slab_mod.F90
+END
+profile.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1150/trunk/LMDZ.GENERIC/libf/phystd/profile.F
+END
+radii_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/radii_mod.F90
+END
+watersat.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/728/trunk/LMDZ.GENERIC/libf/phystd/watersat.F90
+END
+mod_grid_phy_lmdz.F90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/mod_grid_phy_lmdz.F90
+END
+cp_neutral.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/869/trunk/LMDZ.GENERIC/libf/phystd/cp_neutral.F90
+END
+interpolateH2He.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/interpolateH2He.F90
+END
+sfluxi.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/961/trunk/LMDZ.GENERIC/libf/phystd/sfluxi.F
+END
+aerave_new.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/aerave_new.F
+END
+mkstat.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/mkstat.F90
+END
+bilinearbig.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/bilinearbig.F90
+END
+gradients_kcm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/869/trunk/LMDZ.GENERIC/libf/phystd/gradients_kcm.F90
+END
+mod_phys_lmdz_para.F90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/mod_phys_lmdz_para.F90
+END
+callcorrk.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/callcorrk.F90
+END
+phyredem.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/phyredem.F90
+END
+optci.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1194/trunk/LMDZ.GENERIC/libf/phystd/optci.F90
+END
+vlz_fi.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/vlz_fi.F
+END
+write_archive.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/write_archive.F
+END
+callsedim.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/callsedim.F
+END
+watersat_grad.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/650/trunk/LMDZ.GENERIC/libf/phystd/watersat_grad.F90
+END
+rcm1d.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/rcm1d.F
+END
+largescale.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/largescale.F90
+END
+radinc_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/radinc_h.F90
+END
+mod_phys_lmdz_omp_transfert.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/mod_phys_lmdz_omp_transfert.F90
+END
+tabfi.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/tabfi.F
+END
+surfdat_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/surfdat_h.F90
+END
+dtridgl.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/dtridgl.F
+END
+writediagspecVI.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/writediagspecVI.F
+END
+iniwrite.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/iniwrite.F
+END
+iniwritesoil.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/iniwritesoil.F90
+END
+evap.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/evap.F
+END
+stelang.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/stelang.F
+END
+condense_cloud.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/condense_cloud.F90
+END
+iostart.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/iostart.F90
+END
+cpdet.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/phystd/cpdet.F
+END
+tracer_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/tracer_h.F90
+END
+iniwrite_specVI.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/iniwrite_specVI.F
+END
+init_phys_lmdz.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/init_phys_lmdz.F90
+END
+vdif_kc.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/vdif_kc.F
+END
+surface_nature.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/surface_nature.F
+END
+newsedim.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/newsedim.F
+END
+cvmgp.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/cvmgp.F
+END
+comg1d.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/phystd/comg1d.h
+END
+interpolateH2Ocont_CKD.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/interpolateH2Ocont_CKD.F90
+END
+def_var.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/588/trunk/LMDZ.GENERIC/libf/phystd/def_var.F90
+END
+iniorbit.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/iniorbit.F
+END
+initracer.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/initracer.F
+END
+comgeomphy.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/comgeomphy.F90
+END
+cvmgt.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/cvmgt.F
+END
+statto.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/statto.h
+END
+gases_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/gases_h.F90
+END
+interpolateH2H2.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/interpolateH2H2.F90
+END
+comgeomfi_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/comgeomfi_h.F90
+END
+comsoil_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/comsoil_h.F90
+END
+mod_phys_lmdz_omp_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/mod_phys_lmdz_omp_data.F90
+END
+sfluxv.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/961/trunk/LMDZ.GENERIC/libf/phystd/sfluxv.F
+END
+setspv.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/setspv.F90
+END
+wstats.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/wstats.F90
+END
+interpolateN2N2.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/interpolateN2N2.F90
+END
+planete_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/planete_mod.F90
+END
+cpdet.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/phystd/cpdet.h
+END
+rain.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/rain.F90
+END
+aerave.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/aerave.F
+END
+params_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/716/trunk/LMDZ.GENERIC/libf/phystd/params_h.F90
+END
+mucorr.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/1174/trunk/LMDZ.GENERIC/libf/phystd/mucorr.F
+END
+newstart.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/newstart.F
+END
+kcm1d.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/kcm1d.F90
+END
+phasechange_kcm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/305/trunk/LMDZ.GENERIC/libf/phystd/phasechange_kcm.F90
+END
+tpindex.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/tpindex.F
+END
+mod_phys_lmdz_mpi_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/mod_phys_lmdz_mpi_data.F90
+END
+ini_archive.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/ini_archive.F
+END
+calc_cpp_mugaz.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/calc_cpp_mugaz.F90
+END
+aeroptproperties.F90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/aeroptproperties.F90
+END
+moistadj.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/moistadj.F90
+END
+datareadnc.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Planeto/!svn/ver/988/trunk/LMDZ.GENERIC/libf/phystd/datareadnc.F
+END
+multipl.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/multipl.F
+END
+physiq.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/physiq.F90
+END
+blackl.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/959/trunk/LMDZ.GENERIC/libf/phystd/blackl.F
+END
+sugas_corrk.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/sugas_corrk.F90
+END
+kcmprof_fn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/kcmprof_fn.F90
+END
+writediagfi.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/writediagfi.F
+END
+vdif_cd.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/vdif_cd.F
+END
+gfluxi.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/1146/trunk/LMDZ.GENERIC/libf/phystd/gfluxi.F
+END
+dimphy.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/dimphy.F90
+END
+planetwide_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/1295/trunk/LMDZ.GENERIC/libf/phystd/planetwide_mod.F90
+END
+scopyi.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/scopyi.F
+END
+soil.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/soil.F
+END
+hydrol.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/hydrol.F90
+END
+watercommon_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/watercommon_h.F90
+END
+aerosol_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/aerosol_mod.F90
+END
+mod_phys_lmdz_mpi_transfert.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Planeto/!svn/ver/1216/trunk/LMDZ.GENERIC/libf/phystd/mod_phys_lmdz_mpi_transfert.F90
+END
+calcenergy_kcm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/calcenergy_kcm.F90
+END
+surf_heat_transp_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/surf_heat_transp_mod.F90
+END
+start2archive.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1316/trunk/LMDZ.GENERIC/libf/phystd/start2archive.F
+END
+stokes.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/stokes.F90
+END
+newtrelax.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/newtrelax.F90
+END
+writediagspecIR.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/writediagspecIR.F
+END
+ave_stelspec.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/ave_stelspec.F90
+END
+interpolateN2H2.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/interpolateN2H2.F90
+END
+vdifc.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/vdifc.F
+END
+iniwrite_specIR.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/iniwrite_specIR.F
+END
+mass_redistribution.F90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/mass_redistribution.F90
+END
+iniaerosol.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1151/trunk/LMDZ.GENERIC/libf/phystd/iniaerosol.F
+END
+optcv.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1194/trunk/LMDZ.GENERIC/libf/phystd/optcv.F90
+END
+lect_start_archive.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/lect_start_archive.F
+END
+phyetat0.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/phyetat0.F90
+END
+surfini.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/surfini.F
+END
+inifis.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/inifis.F
+END
+su_watercycle.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Planeto/!svn/ver/875/trunk/LMDZ.GENERIC/libf/phystd/su_watercycle.F90
+END
+orbite.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/orbite.F
+END
+iniphysiq.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/iniphysiq.F90
+END
+suaer_corrk.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/suaer_corrk.F90
+END
+interpolateH2Ocont_PPC.F90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Planeto/!svn/ver/716/trunk/LMDZ.GENERIC/libf/phystd/interpolateH2Ocont_PPC.F90
+END
+radcommon_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/radcommon_h.F90
+END
+calc_rayleigh.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Planeto/!svn/ver/1025/trunk/LMDZ.GENERIC/libf/phystd/calc_rayleigh.F90
+END
+comdiurn_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/comdiurn_h.F90
+END
+mufract.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/mufract.F
+END
+calc_cpp3d.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/phystd/calc_cpp3d.F90
+END
+interp_line.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Planeto/!svn/ver/135/trunk/LMDZ.GENERIC/libf/phystd/interp_line.F
+END
+aeropacity.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/aeropacity.F90
+END
+comsaison_h.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/comsaison_h.F90
+END
+gfluxv.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/phystd/gfluxv.F
+END
+dsolver.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Planeto/!svn/ver/253/trunk/LMDZ.GENERIC/libf/phystd/dsolver.F
+END
+setspi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/setspi.F90
+END
+convadj.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Planeto/!svn/ver/1315/trunk/LMDZ.GENERIC/libf/phystd/convadj.F
+END
+stellarlong.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Planeto/!svn/ver/1308/trunk/LMDZ.GENERIC/libf/phystd/stellarlong.F
+END
+soil_settings.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Planeto/!svn/ver/1297/trunk/LMDZ.GENERIC/libf/phystd/soil_settings.F
+END

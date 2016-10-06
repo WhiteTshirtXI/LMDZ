@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Planeto/!svn/ver/1284/trunk/LMDZ.GENERIC/deftank/def_generic_giants/randomRestart
+END
+createRandomStart.f90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Planeto/!svn/ver/1284/trunk/LMDZ.GENERIC/deftank/def_generic_giants/randomRestart/createRandomStart.f90
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Planeto/!svn/ver/1284/trunk/LMDZ.GENERIC/deftank/def_generic_giants/randomRestart/compile
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Planeto/!svn/ver/1284/trunk/LMDZ.GENERIC/deftank/def_generic_giants/randomRestart/readme
+END
